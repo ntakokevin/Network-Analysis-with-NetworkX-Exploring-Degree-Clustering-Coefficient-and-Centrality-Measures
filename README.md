@@ -2,7 +2,7 @@
 
 This project focuses on network analysis using the NetworkX library. It covers various aspects of network analysis, including degree, clustering coefficient, and centrality measures. The project consists of the following tasks:
 
-Degree, Clustering Coefficient, and Components:
+<p> Degree, Clustering Coefficient, and Components: </p>
 
 Design a small network with 6 nodes and compute the clustering coefficient for each node, comparing the results with NetworkX.
 Analyze an undirected network with nodes of degree k = 1, determining the conditions for the network size N, degree distribution, and number of components.
