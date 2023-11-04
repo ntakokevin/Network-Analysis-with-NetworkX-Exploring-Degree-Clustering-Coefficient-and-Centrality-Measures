@@ -7,7 +7,7 @@ This project focuses on network analysis using the NetworkX library. It covers v
 <ul>
 <li>Design a small network with 6 nodes and compute the clustering coefficient for each node, comparing the results with NetworkX.</li>
 <li>Analyze an undirected network with nodes of degree k = 1, determining the conditions for the network size N, degree distribution, and number of components.</li>
-<li></li>Explore a network with nodes of degree k = 2 and clustering coefficient C = 1, understanding the network structure and conditions satisfied by N.</li>
+<li>Explore a network with nodes of degree k = 2 and clustering coefficient C = 1, understanding the network structure and conditions satisfied by N.</li>
 
 ## Network Analysis of the Zachary Karate Club:
 <ul>
